@@ -168,8 +168,8 @@
       <gov-grid-column width="one-half">
         <gov-body>
           Please provide your {{ type }}’s public-facing contact details. These
-          will be displayed on your {{ type }}’s page on the Help Yourself
-          Sutton website.
+          will be displayed on your {{ type }}’s page on the Sutton Information
+          Hub website.
         </gov-body>
 
         <gov-section-break size="l" />
